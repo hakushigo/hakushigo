@@ -4,7 +4,5 @@ I'm michael and I'm a software enthusiats and art enthusiats (kinda... I love dr
 ### My projects
 _i'm lazy to write it here... later!_
 
-### Misc 
-[Wiki, Blog & Stuff](https://hakushigo.notion.site/hakushigo-77f36132c1fa425982528a51b9b74d09)
-
-<p> <img src="https://user-images.githubusercontent.com/72906412/236980363-e78e5741-ab5b-4e36-ac17-841b88fb6739.jpg" alt="drawing" width="30" height="30"/>  </p>
+### misc
+<a href='https://hakushigo.notion.site/hakushigo-77f36132c1fa425982528a51b9b74d09'> <img src="https://user-images.githubusercontent.com/72906412/236980363-e78e5741-ab5b-4e36-ac17-841b88fb6739.jpg" alt="drawing" width="15" height="15"/> Wiki, Blog & Stuff  </p>
